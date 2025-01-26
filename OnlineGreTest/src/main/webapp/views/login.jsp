@@ -83,7 +83,7 @@ color:white;}
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Email address</label>
     <input type="email" id="email" name="email"  aria-describedby="emailHelp" required>
-    <!-- <div id="xx">We'll never share your email with anyone else.</div> -->
+    <!-- <div id="xx">We'll never share your email with anyone else..</div> -->
  
   
     <label for="exampleInputPassword1" class="form-label">Password</label>
